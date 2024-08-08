@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 231a4a065c28c2346803058908f5826b, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  characters:
+  - characterName: Ball 1
+    characterSprite: {fileID: -1306257573432019270, guid: 61e3de665458c2543adaed27bea226f1, type: 3}
+    unlocked: 1
+  - characterName: Ball 2
+    characterSprite: {fileID: -1465714040, guid: f7dba0c3d89a6aa44b3ddfe673a25c44, type: 3}
+    unlocked: 0
+  - characterName: Ball 3
+    characterSprite: {fileID: -1306257573432019270, guid: 32b5ba29deeb43a40bb32d596b827d63, type: 3}
+    unlocked: 0
+  - characterName: Ball 4
+    characterSprite: {fileID: -2932246539594791792, guid: dc3a224b150b4a14ab11ff3df6f1f109, type: 3}
+    unlocked: 0
+  - characterName: Ball 5
+    characterSprite: {fileID: 3443468742828491540, guid: a165896b9b6e7b14eb4a27f15a969889, type: 3}
+    unlocked: 0
+  - characterName: Ball 6
+    characterSprite: {fileID: 3443468742828491540, guid: 2d89486e8740916468e8112138b58b6f, type: 3}
+    unlocked: 0
+  - characterName: Ball 7
+    characterSprite: {fileID: 1150164526136758442, guid: 86332132e93b0b54ea56969be08b6847, type: 3}
+    unlocked: 0
+  - characterName: Ball 8
+    characterSprite: {fileID: 3443468742828491540, guid: e059bb35f171d544892ebaea3870cf74, type: 3}
+    unlocked: 0
+  - characterName: Ball 9
+    characterSprite: {fileID: -3505136538536470210, guid: f5f5b32ae0bd8de4080ccbb5ebf85b40, type: 3}
+    unlocked: 0
+  - characterName: Ball 10
+    characterSprite: {fileID: -1306257573432019270, guid: d44cea2cb21806840b3a6e1105402a30, type: 3}
+    unlocked: 0
+  - characterName: Ball 11
+    characterSprite: {fileID: -8993903765459102428, guid: ad440b8f9965a264f9097ba39c41b884, type: 3}
+    unlocked: 0
+  - characterName: Ball 12
+    characterSprite: {fileID: 3612785482430890953, guid: 091603ad33e52fb4aba463a11d6a27c6, type: 3}
+    unlocked: 0
+  - characterName: Ball 13
+    characterSprite: {fileID: -4851002328684578268, guid: 38e871869c23ef74297980ca941f8763, type: 3}
+    unlocked: 0
